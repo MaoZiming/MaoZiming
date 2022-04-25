@@ -27,6 +27,9 @@ Feel free to reach out via [email](mailto:ziming.mao@yale.edu)!
 * Bing Wu, Yanjun Zhang, <strong>Ziming Mao</strong>, et. al. "Spacer vibration for fouling control of submerged flat sheet membranes". Accepted at the journal of Separation and Purification Technology, 2019 [[Paper](https://www.sciencedirect.com/science/article/pii/S1383586618319968)]
 
 ## 🔭 Hobby
+### Badminton 🏸
 ### Astrophotography 🌌 
 Check out my own works here! [[Link](https://www.instagram.com/ziming.astro/)]    
 I also run an Instagram channel with 400k+ followers~ [[Link](https://www.instagram.com/the.astronomy.daily/)]
+
+
