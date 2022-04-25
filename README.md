@@ -9,6 +9,9 @@ I have worked with collaborators from Microsoft Research, NetApp, Facebook AI, S
 
 Feel free to reach out via [email](mailto:ziming.mao@yale.edu)!
 
+
+<img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="drawing" width="300"/>
+
 ## 🌱 Research
 ### System
 - learned cache (In Submission)
