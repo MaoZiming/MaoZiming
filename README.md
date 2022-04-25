@@ -30,4 +30,3 @@ Feel free to reach out via [email](mailto:ziming.mao@yale.edu)!
 ### Astrophotography 🌌 
 Check out my own works here! [[Link](https://www.instagram.com/ziming.astro/)]    
 I also run an Instagram channel with 400k+ followers~ [[Link](https://www.instagram.com/the.astronomy.daily/)]
-### Badminton 🏸
