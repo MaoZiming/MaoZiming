@@ -1,5 +1,7 @@
 ## 👋 Hi there :)
-Hello, I am Ziming Mao. I am a junior at Yale University, pursuing a BS in Computer Science and BA in Philosophy. I am interested in Big Data Systems, Machine Learning Systems, Cloud Computing, Distributed Systems
+Hello, I am Ziming Mao.  
+I am a junior at Yale University, pursuing a BS in Computer Science and BA in Philosophy.  
+I am interested in Big Data Systems, Machine Learning Systems, Cloud Computing, Distributed Systems
 
 Feel free to reach out via [email](mailto:ziming.mao@yale.edu)!
 
