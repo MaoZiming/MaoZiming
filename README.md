@@ -15,7 +15,7 @@ Feel free to reach out via [email](mailto:ziming.mao@yale.edu)!
 ## 🌱 Research
 ### System
 - Resource disaggregation (<em> in progress </em>)
-- Learned cache (<em> In Submission </em>)
+- Learned cache (<em> In submission </em>)
 - <ins>Ziming Mao</ins>, Anurag Khandelwal, Kiran Srinivasan, “Trinity: A Fast and Space-efficient Multi-attribute Data Store”
 
 ### NLP / Machine Learning
