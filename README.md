@@ -3,7 +3,7 @@ I am Ziming! I am a junior at Yale University, pursuing a BS in Computer Science
 I am interested in Big Data Systems, Machine Learning Systems, Cloud Computing, and Distributed Systems.   
 
 
-I am adviced by Prof. Dragomir Radev, Prof. Anurag Khandelwal from Yale and Prof. Rashmi Vinayak from CMU. 
+I am advised by Prof. Dragomir Radev, Prof. Anurag Khandelwal from Yale and Prof. Rashmi Vinayak from CMU. 
 I have worked on research collaborations with Microsoft Research, NetApp, Facebook AI, Salesforce Research, and Twitter. 
 
 
