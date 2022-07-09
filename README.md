@@ -1,7 +1,3 @@
-## Hey there
-I am Ziming, a rising senior at Yale college.  
-I am interested in Big Data Systems, Machine Learning Systems, Cloud Computing, and Distributed Systems.   
-
 ## 🌱 Research
 ### System
 - Resource disaggregation (<em> in progress </em>)
