@@ -1,22 +1,12 @@
 ## Hey there
-I am Ziming! I am a junior at Yale University, pursuing a BS in Computer Science and BA in Philosophy.  
+I am Ziming, a rising senior at Yale college.  
 I am interested in Big Data Systems, Machine Learning Systems, Cloud Computing, and Distributed Systems.   
-
-
-I am advised by Prof. Dragomir Radev, Prof. Anurag Khandelwal from Yale and Prof. Rashmi Vinayak from CMU. 
-I have worked on research collaborations with Microsoft Research, NetApp, Facebook AI, Salesforce Research, and Twitter. 
-
-
-Feel free to reach out via [email](mailto:ziming.mao@yale.edu)!
-
-
-<img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="drawing" width="250"/>
 
 ## 🌱 Research
 ### System
 - Resource disaggregation (<em> in progress </em>)
 - Learned cache (<em> In submission </em>)
-- <ins>Ziming Mao</ins>, Anurag Khandelwal, Kiran Srinivasan, “Trinity: A Fast and Space-efficient Multi-attribute Data Store”
+- Distributed Data store (<em> In submission </em>)
 
 ### NLP / Machine Learning
 * <ins>Ziming Mao*</ins>, Chen Henry Wu*, Ansong Ni, et. al. “DYLE: Dynamic Latent Extraction for Abstractive Long-Input Summarization” Accepted at Association for Computational Linguistics (ACL) 2022 Main Conference (* Equal Contribution) [[Paper](https://arxiv.org/abs/2110.08168)]
@@ -26,9 +16,3 @@ Feel free to reach out via [email](mailto:ziming.mao@yale.edu)!
 ### Earlier Works
 * Yong Zen Tan, <ins>Ziming Mao</ins>, Yanjun Zhang, et. al. "Enhancing fouling mitigation of submerged flat-sheet membranes by vibrating 3D-spacers". Accepted at the journal of Separation and Purification Technology, 2019 [[Paper](https://www.sciencedirect.com/science/article/pii/S1383586618333240)]
 * Bing Wu, Yanjun Zhang, <ins>Ziming Mao</ins>, et. al. "Spacer vibration for fouling control of submerged flat sheet membranes". Accepted at the journal of Separation and Purification Technology, 2019 [[Paper](https://www.sciencedirect.com/science/article/pii/S1383586618319968)]
-
-## 🔭 Hobby
-Astrophotography! 🌌  Check out my photos [here](https://www.instagram.com/ziming.astro)!  
-I also run an Instagram channel with 400k+ followers~ [@the.astronomy.daily](https://www.instagram.com/the.astronomy.daily/)
-
-
