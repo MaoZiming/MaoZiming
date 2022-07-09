@@ -1,6 +1,6 @@
 ## 🌱 Research
 ### System
-- Resource disaggregation (<em> in progress </em>)
+- Resource disaggregation (<em> In progress </em>)
 - Learned cache (<em> In submission </em>)
 - Distributed Data store (<em> In submission </em>)
 
