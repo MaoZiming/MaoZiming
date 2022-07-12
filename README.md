@@ -2,7 +2,7 @@
 ### System
 - Resource disaggregation (<em> In progress </em>)
 - Learned cache (<em> In submission </em>)
-- Distributed Data store (<em> In submission </em>)
+- Multi-attribute Data Store (<em> In submission </em>)
 
 ### NLP / Machine Learning
 * <ins>Ziming Mao*</ins>, Chen Henry Wu*, Ansong Ni, et. al. “DYLE: Dynamic Latent Extraction for Abstractive Long-Input Summarization” Accepted at Association for Computational Linguistics (ACL) 2022 Main Conference (* Equal Contribution) [[Paper](https://arxiv.org/abs/2110.08168)]
